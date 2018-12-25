@@ -10,7 +10,6 @@ Slice 'k' containes directions of zero crossing by original slice. '-1' signal c
 
 **Example:**  
 	package main
-	
 	import (
 		"fmt"
 		"zerocross"
