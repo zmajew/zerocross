@@ -8,10 +8,16 @@ Slice 'k' containes directions of zero crossing by original slice. '-1' signal c
 
 **ToNegative** function returns places of zero crossing in data slice to negative value. 
 
+<<<<<<< HEAD
 **Example:**
 	
 	package main
+=======
+**Example:**  
 	
+>>>>>>> origin/master
+	
+	package main
 	import (
 		"fmt"
 		"zerocross"
