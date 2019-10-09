@@ -9,7 +9,7 @@ Slice 'k' containes directions of zero crossing by original slice. '-1' signal c
 **ToNegative** function returns places of zero crossing in data slice to negative value. 
 
 **Example:**
-	
+```
 	package main
 
 	import (
@@ -23,7 +23,10 @@ Slice 'k' containes directions of zero crossing by original slice. '-1' signal c
 		fmt.Println(zeros)
 		fmt.Println(directions)
 	}
+```
 
-	Results:
-	zeros: [0 1 8 10]
-	directions: [1 -1 0 0 0 0 0 0 1 0 -1]
+Result:
+
+zeros: [0 1 8 10]
+
+directions: [1 -1 0 0 0 0 0 0 1 0 -1]
