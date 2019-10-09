@@ -1,4 +1,4 @@
-Simple script for obtain zero crossing properties of signal or similar numerical slice.
+Simple script for obtaining zero crossing properties of signal or similar numerical slice.
 
 **Both** function returns the places of zero crossing in data slice, both from negative and positive value.  
 Slice 'f' containes places in the original slice where signal cross zero from both directions.  
